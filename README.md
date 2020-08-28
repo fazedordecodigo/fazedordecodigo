@@ -15,7 +15,6 @@ Meu nome é Emerson Delatorre, Desenvolvedor de Sistemas apaixonado por Automaç
 - :blue_heart: Techs: C#, Python, VBA, SQL e mais!
 - :books: Estudante de Análise e Desenvolvimento de Sistemas na Uninter (Conclusão em 2022). :heart:
 
-> :octocat: [delatorrea.github.io](https://delatorrea.github.io/)
 
 # Outros dados:
 
