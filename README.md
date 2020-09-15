@@ -18,5 +18,5 @@ Meu nome é Emerson Delatorre, Desenvolvedor de Sistemas apaixonado por Automaç
 
 # Outros dados:
 
-![here is my stats](https://github-readme-stats.vercel.app/api?username=delatorra&show_icons=true&hide_border=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delatorrea&layout=compact)](https://github.com/delatorrea/github-readme-stats)
+![here is my stats](https://github-readme-stats.vercel.app/api?username=delatorrea&show_icons=true&hide_border=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delatorrea&layout=compact)](https://github.com/delatorrea/github-readme-stats)
 
