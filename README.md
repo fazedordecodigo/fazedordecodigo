@@ -5,7 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/delatorre_)](https://twitter.com/delatorre_)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522981502289&text=Olá!)](https://api.whatsapp.com/send?phone=5522981502289&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/delatorrea)](https://t.me/delatorrea)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delatorrea@gmail.com)](mailto:delatorrea@gmail.com)
+[![MVP Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Outlookt&logoColor=white&link=mailto:emerson@delatorre.dev)](mailto:emerson@delatorre.dev)
+
 
 ## Olá 👋
 
