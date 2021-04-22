@@ -10,9 +10,9 @@
 
 ## Olá 👋
 
-Meu nome é Emerson Delatorre, Analista Desenvolvedor de Sistemas apaixonado por Automações de Processos.
+Meu nome é Emerson Delatorre, Desenvolvedor de Software apaixonado por Automações de Processos.
 
-- :office_worker: Analista Desenvolvedor na [Vix Logística SA](http://vix.com.br)
+- :office_worker: Desenvolvedor de Software na [Vix Logística SA](http://vix.com.br)
 - :blue_heart: Techs: C#, Python e VBA
 - :books: Estudante de Análise e Desenvolvimento de Sistemas na [Uninter](https://www.uninter.com/) (Conclusão em 2022). :heart:
 
