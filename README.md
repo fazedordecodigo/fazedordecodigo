@@ -10,7 +10,7 @@
 
 ## Olá 👋
 
-Meu nome é Emerson Delatorre, Desenvolvedor de Software apaixonado por Automações de Processos.
+Meu nome é Emerson Delatorre, Desenvolvedor BackEnd.
 
 - :office_worker: Desenvolvedor de Software na [Vix Logística SA](http://vix.com.br)
 - :blue_heart: Techs: C# .NET Core, ASP.NET Core, Python, Django, HTML, CSS, Git, Azure Boards, SQL Server, Maria DB, SQLite
