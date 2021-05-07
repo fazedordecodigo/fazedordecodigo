@@ -19,7 +19,6 @@ Meu nome é Emerson Delatorre, Desenvolvedor BackEnd.
 
 # Outros dados:
 
-[![Board Status](https://dev.azure.com/vixnn/87981d4c-bda4-4a37-8b23-601e5f31d685/4dd7e189-3c5a-4769-b22c-2dacb19fdddd/_apis/work/boardbadge/1010ff10-eaa6-423b-9f85-a17b3e5d1fcb?columnOptions=1)](https://dev.azure.com/vixnn/87981d4c-bda4-4a37-8b23-601e5f31d685/_boards/board/t/4dd7e189-3c5a-4769-b22c-2dacb19fdddd/Microsoft.EpicCategory/)
 
 ![here is my stats](https://github-readme-stats.vercel.app/api?username=delatorrea&show_icons=true&hide_border=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delatorrea&layout=compact)](https://github.com/delatorrea/github-readme-stats)
 
