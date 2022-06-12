@@ -13,7 +13,7 @@
 Meu nome é Emerson Delatorre, Desenvolvedor BackEnd.
 
 - :office_worker: Sr Anls, Full-Stack Dev na [Avanade](https://www.avanade.com/pt-br)
-- :blue_heart: Techs: C# .NET Core, ASP.NET Core, Python, Django, HTML, CSS, Git, Azure Boards, SQL Server, Maria DB, SQLite
+- :blue_heart: Techs: TS, JS, Nestjs, C#, .NET Core, ASP.NET Core, Python, Django, HTML, CSS, Git, Azure Boards, SQL Server, Maria DB, SQLite
 - :books: Estudante de Análise e Desenvolvimento de Sistemas na [Uninter](https://www.uninter.com/) (Conclusão em Dezembro de 2022). :heart:
 
 
