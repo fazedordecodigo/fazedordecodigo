@@ -64,7 +64,7 @@ Meu nome é Emerson Delatorre, Desenvolvedor BackEnd.
 ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=delatorrea&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=delatorrea&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mrsndlt&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrsndlt&hide=css,java,html&theme=tokyonight">
 </p>
 
