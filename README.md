@@ -1,8 +1,8 @@
 # Emerson Delatorre :man_technologist:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/delatorrea)](https://github.com/DelatorreA)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delatorrea/)](https://www.linkedin.com/in/mrsndlt/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/delatorre_)](https://twitter.com/mrsndlt)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fazedordecodigo)](https://github.com/fazedordecodigo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fazedordecodigo/)](https://www.linkedin.com/in/fazedordecodigo/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fazedordecodigo)](https://twitter.com/fazedordecodigo)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521980231818&text=Olá!)](https://api.whatsapp.com/send?phone=5521980231818&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/delatorrea)](https://t.me/delatorrea)
 [![Outlook Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:emerson@delatorre.dev)](mailto:emerson@delatorre.dev)
@@ -62,10 +62,14 @@ Meu nome é Emerson Delatorre, Desenvolvedor BackEnd.
 
 </p>
 
+## 💻 Freela
+
+<a href="https://app.bounties4.com/@/delatorre" target="_blank"><img title="bounties4.com/@/delatorre" alt="bounties4.com/@/delatorre" src="https://storage.googleapis.com/profile_avatar/production/6483efa9a29c36631df986ae/1699806597151_badge.png" width="400" height="400" /></a>
+
 ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mrsndlt&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrsndlt&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=fazedordecodigo&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fazedordecodigo&hide=css,java,html&theme=tokyonight">
 </p>
 
