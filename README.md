@@ -62,10 +62,6 @@ Meu nome é Emerson Delatorre, Desenvolvedor BackEnd.
 
 </p>
 
-## 💻 Freela
-
-<a href="https://app.bounties4.com/@/delatorre" target="_blank"><img title="bounties4.com/@/delatorre" alt="bounties4.com/@/delatorre" src="https://storage.googleapis.com/profile_avatar/production/6483efa9a29c36631df986ae/1699806597151_badge.png" width="400" height="400" /></a>
-
 ## ⭐ GitHub Stats
 
 <p align = "center">
