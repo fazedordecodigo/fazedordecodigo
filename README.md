@@ -13,9 +13,9 @@
 
 ## Olá 👋
 
-Meu nome é Emerson Delatorre, Desenvolvedor BackEnd.
+Meu nome é Emerson Delatorre.
 
-- :office_worker: Tech Lead na [Avanade](https://www.avanade.com/pt-br)
+- :office_worker: Head of Technology and Innovation at [Consys Tecnologia](https://consystecnologia.com.br)
 - ⭐: 7x Microsoft Certified: AI-900, AZ-900, DP-900, SC-900, PL-900, MS-900, PL-100
 - :books: Formado em Análise e Desenvolvimento de Sistemas na [Uninter](https://www.uninter.com/). :heart:
 - :books: Cursando Engenharia de Software na [Estácio](https://estacio.br/). :heart:
