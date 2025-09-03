@@ -5,7 +5,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fazedordecodigo)](https://github.com/fazedordecodigo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fazedordecodigo/)](https://www.linkedin.com/in/fazedordecodigo/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fazedordecodigo)](https://twitter.com/fazedordecodigo)
-[![Whatsapp Badge](https://img.shields.io/badge/-Signal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=signal)](https://signal.me/#eu/SIOWyZAmt7cum5RCSq-sR67FKpCz7UD40oXyLsdzecj8E4KAT8ZOTaS0kpbK9zt1)
 [![ Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/fazedordecodigo)](https://t.me/fazedordecodigo)
 [![Outlook Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:emerson@delatorre.dev)](mailto:emerson@delatorre.dev)
 
