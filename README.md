@@ -1,44 +1,32 @@
-# Emerson Delatorre :man_technologist:
+# Emerson Delatorre
 
-![](https://komarev.com/ghpvc/?username=fazedordecodigo)
+Senior Python Software Engineer na [Zup Innovation](https://zup.com.br/) desde setembro de 2026. Líder da comunidade [Fazedor de Código](https://fazedordecodigo.com) e embaixador da SpaceXAI, Devin e n8n. Formado em Análise e Desenvolvimento de Sistemas pela [Uninter](https://www.uninter.com/).
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fazedordecodigo)](https://github.com/fazedordecodigo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fazedordecodigo/)](https://www.linkedin.com/in/fazedordecodigo/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fazedordecodigo)](https://twitter.com/fazedordecodigo)
-[![ Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/fazedordecodigo)](https://t.me/fazedordecodigo)
-[![Outlook Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:emerson@delatorre.dev)](mailto:emerson@delatorre.dev)
+## Highlights
 
-</br>
-<a href='https://ko-fi.com/delatorrea' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</p>
+| Highlight | Detail |
+|---|---|
+| **Comunidade** | Líder da [Fazedor de Código](https://fazedordecodigo.com) |
+| **Embaixadas** | SpaceXAI, Devin e n8n |
+| **Palestras** | Codecon (28/02/2026), RIW (06/08/2026), IEEE (29/08/2026) |
+| **Certificações** | AI-900, AZ-900, DP-900, SC-900, PL-900, MS-900 e GitHub Foundations |
 
-## Olá 👋
+## Experience
 
-Meu nome é Emerson Delatorre.
+- Senior Python Software Engineer, [Zup Innovation](https://zup.com.br/) (set. 2026 – presente)
 
-- :office_worker: Senior Python Software Engineer na [Zup Innovation](https://zup.com.br/)
-- ⭐: Certificações: AI-900, AZ-900, DP-900, SC-900, PL-900, MS-900 e GitHub Foundations
-- :handshake: Embaixador da SpaceXAI, Devin e n8n
-- :busts_in_silhouette: Líder da comunidade Fazedor de Código — [fazedordecodigo.com](https://fazedordecodigo.com)
-- :globe_with_meridians: Site: [delatorre.dev](https://delatorre.dev)
-- :microphone: Palestras: [Sessionize](https://sessionize.com/emerson-delatorre/)
-- :books: Formado em Análise e Desenvolvimento de Sistemas na [Uninter](https://www.uninter.com/). :heart:
+## Education
 
-## 💻 Technologies & Tools
+**Análise e Desenvolvimento de Sistemas** · [Uninter](https://www.uninter.com/)
 
-[![My Skills](https://skillicons.dev/icons?i=arch,atom,aws,azure,bash,bootstrap,cs,cloudflare,cmake,css,dart,discord,bots,django,docker,dotnet,dynamodb,elixir,fastapi,fediverse,flask,flutter,git,github,githubactions,gitlab,gmail,go,grafana,html,idea,ai,java,js,jest,kafka,kubernetes,linux,md,mastodon,mongodb,mysql,neovim,nestjs,netlify,nodejs,notion,npm,obsidian,postgres,postman,powershell,prisma,prometheus,py,rabbitmq,redis,replit,rider,sqlite,stackoverflow,selenium,sequelize,svg,twitter,ts,ubuntu,vim,visualstudio,vscode,windows,workers,yarn&perline=13)](https://skillicons.dev)
+## Talks
 
-## ⭐ GitHub Stats
+- Codecon · 28/02/2026
+- RIW · 06/08/2026
+- IEEE · 29/08/2026
 
-[![Delatorre's github stats](https://bad-apple-github-readme.vercel.app/api?username=fazedordecodigo&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=fazedordecodigo&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[Sessionize](https://sessionize.com/emerson-delatorre/)
 
-[![Delatorre's current streak](https://streak-stats.demolab.com/?user=fazedordecodigo&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+## Links
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/fazedordecodigo/fazedordecodigo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/fazedordecodigo/fazedordecodigo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+[![Site](https://img.shields.io/badge/Site-delatorre.dev-000000?style=flat)](https://delatorre.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazedordecodigo/) [![X](https://img.shields.io/badge/X-%40fazedordecodigo-000000?style=flat&logo=x&logoColor=white)](https://x.com/fazedordecodigo) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emerson@delatorre.dev)
