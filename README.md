@@ -16,8 +16,12 @@
 
 Meu nome é Emerson Delatorre.
 
-- :office_worker: Senior Software Engineer at [Zup Innovation](https://zup.com.br/)
-- ⭐: 7x Microsoft Certified: AI-900, AZ-900, DP-900, SC-900, PL-900, MS-900, PL-100
+- :office_worker: Senior Python Software Engineer na [Zup Innovation](https://zup.com.br/)
+- ⭐: Certificações: AI-900, AZ-900, DP-900, SC-900, PL-900, MS-900 e GitHub Foundations
+- :handshake: Embaixador da SpaceXAI, Devin e n8n
+- :busts_in_silhouette: Líder da comunidade Fazedor de Código — [fazedordecodigo.com](https://fazedordecodigo.com)
+- :globe_with_meridians: Site: [delatorre.dev](https://delatorre.dev)
+- :microphone: Palestras: [Sessionize](https://sessionize.com/emerson-delatorre/)
 - :books: Formado em Análise e Desenvolvimento de Sistemas na [Uninter](https://www.uninter.com/). :heart:
 
 ## 💻 Technologies & Tools
