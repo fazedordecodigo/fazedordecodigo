@@ -16,7 +16,7 @@
 
 Meu nome é Emerson Delatorre.
 
-- :office_worker: Senior Software Engineer at [Vibra Digital (Grupo Bandeirantes)](https://vibra.digital/)
+- :office_worker: Senior Software Engineer at [Zup Innovation](https://zup.com.br/)
 - ⭐: 7x Microsoft Certified: AI-900, AZ-900, DP-900, SC-900, PL-900, MS-900, PL-100
 - :books: Formado em Análise e Desenvolvimento de Sistemas na [Uninter](https://www.uninter.com/). :heart:
 
