@@ -15,7 +15,7 @@ Senior Python Software Engineer at Zup Innovation since September 2026. Leader o
 | **Community** | Leader of [Fazedor de Código](https://fazedordecodigo.com) |
 | **Ambassadorships** | SpaceXAI, Devin, and n8n |
 | **Open source** | [PyFlunt](https://github.com/fazedordecodigo/PyFlunt) |
-| **Talks** | Codecon 28/02/2026, RIW 06/08/2026, IEEE 29/08/2026 · [Sessionize](https://sessionize.com/emerson-delatorre/) |
+| **Talks** | Codecon 28/02/2026, RIW 06/08/2026, IEEE 29/08/2026 · [Sessionize](https://sessionize.com/fazedordecodigo) |
 | **Certifications** | AI-900, AZ-900, DP-900, SC-900, PL-900, MS-900, and GitHub Foundations |
 
 ## Writing
